@@ -14,10 +14,10 @@ create testing package
 
 ### How to create and publish a package
 - initial the package
--    ```npm init```
+  -```npm init```
 
 - create a user
--    ```npm adduser```
+  -```npm adduser```
 
 - publish the package
--    ```npm publish```
+  -```npm publish```
