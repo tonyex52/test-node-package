@@ -11,3 +11,13 @@ create testing package
 
 ```test-cli greet|hi --help```
 - use it to know the sub-command
+
+### How to create and publish a package
+- initial the package
+-    ```npm init```
+
+- create a user
+-    ```npm adduser```
+
+- publish the package
+-    ```npm publish```
