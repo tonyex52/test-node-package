@@ -1,0 +1,30 @@
+{
+  "name": "test-node-package",
+  "version": "1.0.0",
+  "description": "testing package",
+  "main": "index.js",
+  "bin": {
+    "test-cli": "./index.js"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonyex52/test-node-package.git"
+  },
+  "keywords": [
+    "test",
+    "node",
+    "package"
+  ],
+  "author": "Tony",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tonyex52/test-node-package/issues"
+  },
+  "homepage": "https://github.com/tonyex52/test-node-package#readme",
+  "dependencies": {
+    "commander": "^2.11.0"
+  }
+}
